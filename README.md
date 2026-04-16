@@ -23,7 +23,7 @@ SEO Machine is built on Claude Code and provides:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/TheCraigHewitt/seomachine.git
+git clone https://github.com/sontakey/seomachine.git
 cd seomachine
 ```
 
